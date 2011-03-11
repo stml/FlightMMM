@@ -1,0 +1,48 @@
+WorkCurse: {
+	"Christ";
+	"Balls";
+	"Tits";
+	"Damn";
+	"Fuckery";
+	"Oh no";
+	"Oh dear";
+	"Oh please";
+	"Nooooooooooooo";
+	}
+WorkBoss: {
+	"my boss is";
+	"work is";
+	"my work is";
+	"people at work are";
+	"my colleague is";
+	"my colleagues are";
+	}
+WorkReason: {
+	"the new project";
+	"changing deadlines";
+	"a new client";
+	"my holiday times";
+	"holiday pay";
+	"vacation periods";
+	"some management bullshit";
+	}
+WorkFeelings: {
+	"pretty pissed off";
+	"really angry";
+	"quite upset";
+	"not very happy";
+	"so unimpressed";
+	"just resigned";
+	}
+WorkExcitement: {
+	"I've-got-a-ticket-in-my-pocket phase";
+	"slightly nervous bit";
+	"I'm-going-away bit";
+	"here-we-go bit";
+	}
+	
+GoAwaySlideshow: {
+    [SourceDomain: Flickr]
+    [query: {{ GoAwayPlace }}]
+    [store: Embed Code, AuthorName]
+	}
