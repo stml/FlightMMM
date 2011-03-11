@@ -1,0 +1,61 @@
+GoAwayNeed: {
+	"I want to go away again";
+	"I need to go away again";
+	"I need a holiday";
+	"I need a vacation";
+	"I need a break";
+	"I want a holiday";
+	"I want a vacation";
+	"I want a break";
+	}
+GoAwayTime: {
+	"in months";
+	"in years";
+	"in what feels like months";
+	"in what feels like years";
+	"since last summer";
+	"since last Christmas";
+	"since my birthday";
+	}
+GoAwayReason: {
+    "sometimes it all gets a bit much";
+    "I'm pretty wrung out";
+    "I'm just knackered";
+    "I'm cream-crackered";
+    "I'm not really myself";
+    "it's time";
+    "I deserve it";
+    "I don't deserve it, but"
+	}
+GoAwayThrowAway: {
+	"Same thing, day after day, tube, work, dinner, work, tube, armchair, sleep, tube, work. How much more can you take? One in ten go mad. One in five cracks up.";
+	"After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.";
+	"The holiest of all holidays are those kept by ourselves in silence and apart; the secret anniversaries of the heart.";
+	"A vacation is having nothing to do and all day to do it in.";
+	"A vacation is what you take when you can no longer take what you've been taking.";
+	"Come, woo me, woo me; for now I am in a holiday humor, and like enough to consent.";
+	}
+GoAwaySite: {
+	"<a href='http://www.dopplr.com'>Dopplr</a>";
+	"<a href='http://www.tripadvisor.co.uk/'>tripadvisor</a>";
+	"<a href='http://www.lonelyplanet.com/'>Lonely Planet</a>";
+	"<a href='http://wikitravel.org/en/Main_Page'>Wikitravel</a>";
+	"<a href='http://www.lastminute.com/'>lastminute.com</a>";
+	"<a href='http://www.kayak.com'>Kayak</a>";
+	}
+Stage1SignOff: {
+	"Nothing like a snap decision.";
+	"This is going to be fun.";
+	"This should be interesting.";
+	"Here we go.";
+	"Nice and smooth.";
+	}
+
+GoAwayPlace: {
+    [API: GoogleMaps]
+    [query: Random country]
+	}
+Stage1Tune: {
+    [API: Weavrs];
+    [query: {LatestAudio, TopEmotion}];
+	}
