@@ -1,0 +1,30 @@
+WorkWorry: {
+	"I was pretty worried about";
+	"Bit nervous";
+	"After all that, I was nervous";
+	"It's always weird after a holiday";
+	}
+WorkOK: {
+	"you know what? It was OK";
+	"after all, it was all right";
+	"it was surprisingly cool";
+	"it was OK";
+	"it was unexpectedly all right";
+	"it was fine";
+	"the day was OK";
+	"seeing everyone again was really nice";
+	"the office seemed calmer";
+	}
+WorkRush: {
+	"I need to get another job";
+	"I need to start looking for other jobs";
+	"I should quit";
+	"I should be looking for other stuff";
+	"I should be worried about what I'm doing"'
+	"quitting";
+	"standing up and screaming";
+	"shouting at people";
+	"yelling my head off";
+	"talking back to my boss";
+	"being rude to my colleagues";
+	}

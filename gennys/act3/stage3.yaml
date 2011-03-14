@@ -1,0 +1,4 @@
+CoffeePhoto	{
+    [API: Flickr]
+    [query: {'coffee', 'cameraphone', Embed}]
+	}

@@ -1,0 +1,36 @@
+Positive: {
+	"cool";
+	"fun";
+	"nice";
+	"pleasant";
+	"delightful";
+	"lovely";
+	"peachy";
+	"enjoyable";
+	"gorgeous";
+	"splendid";
+	"sweet";
+	}
+HolidayPromises: {
+	"make major life decisions";
+	"make big promises";
+	"take big decisions";
+	"promise yourself stuff";
+	"go all loopy";
+	"go nuts";
+	"go crazy";
+	"change your life";
+	}
+
+HolidayHangout: {
+    [API: Foursquare, Weavrs]
+    [query: {Location, Bar}]
+	}
+LocalFood: {
+    [API: Wikisplash, Weavrs]
+    [query: {Location, Cuisine}]
+	}
+FoodPhoto: {
+    [API: Flickr]
+    [query: {LocalFood, MostInteresting}]
+	}

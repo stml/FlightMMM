@@ -1,0 +1,12 @@
+Diminutive: {
+	"crap";
+	"bad";
+	"awful";
+	"terrible";
+	"rubbish";
+	}
+	
+HolidaySlideshow: {
+	[API: Flickr]
+	[query: {{ GoAwayPlace, EmbedSlideshow }}]
+	}

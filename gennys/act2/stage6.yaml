@@ -27,6 +27,6 @@ Superlative: {
 	}
 	
 AmazingPhoto {
-    [API: Flickt]
+    [API: Flickr]
     [query: {GoAwayPlace, MostInteresting}]
 	}

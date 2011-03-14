@@ -18,13 +18,14 @@ WorkBoss: {
 	"my colleagues are";
 	}
 WorkReason: {
-	"the new project";
-	"changing deadlines";
-	"a new client";
-	"my holiday times";
-	"holiday pay";
-	"vacation periods";
-	"some management bullshit";
+	"new projects";
+	"tight deadlines";
+	"new clients";
+	"bullshit management things";
+	"holiday restrictions";
+	"working hours";
+	"unpaid sick days";
+	"team-building exercises";
 	}
 WorkFeelings: {
 	"pretty pissed off";

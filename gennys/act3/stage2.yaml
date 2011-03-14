@@ -1,0 +1,5 @@
+HolidayTune: {
+    [API: Lastfm, Weavrs]
+    [query: {Location, geoTopTune}]
+    [Store: {Title, Embed}]
+	}
