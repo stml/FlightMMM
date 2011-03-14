@@ -1,0 +1,35 @@
+JoyShout: {
+	"Ha!";
+	"Woohoo!";
+	"Yay!";
+	"Woop!";
+	"Wahey!";
+	"Yesssss!";
+	"Phew...";
+	"Wow...";
+	"Oh yeah!";
+	}
+JoyHappened: {
+	"shit happened";
+	"somebody died";
+	"somebody got fired";
+	"there's been a rescheduling";
+	"the client got cold feet";
+	"the boss lost his head";
+	"management went all weird";
+	"boss went skiing";
+	"we fired the contractor";
+	}
+JoyDemand: {
+	"go to work";
+	"go in";
+	"listen to them";
+	"finish the project";
+	"keep that deadline";
+	"shave that yak";
+	}
+	
+Stage3Tune: {
+    [API: Lastfm];
+    [query: {TaggedAudio, "Holiday"}];
+	}

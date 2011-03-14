@@ -1,0 +1,30 @@
+FlightRelief: {
+	"Phew";
+	"Woo";
+	"Wow";
+	"Gee whiz";
+	"Yikes";
+	"Woah";
+	}
+FlightMess: {
+	"palaver";
+	"mess";
+	"jam";
+	"muddle";
+	}
+FlightTransport: {
+	"car";
+	"train";
+	"bus";
+	"taxi";
+	}
+	
+FlightAirport: {
+    [API: Foursquare, Weavr];
+    [query: {Airport, Location}];
+	}
+FlightCafe: {
+    [API: Foursquare, Weavr];
+    [query: {Cafe, Location}];
+	}
+	

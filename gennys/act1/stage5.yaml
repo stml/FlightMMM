@@ -1,0 +1,25 @@
+AirportCurse: {
+	"a shithole";
+	"a shambles";
+	"like a bomb site";
+	"such a dump";
+	"a slum";
+	"the pits";
+	}
+	
+AirportVenue1: {
+    [API: Foursquare, Weavr];
+    [query: {Shop, Location}];
+	}
+AirportVenue2: {
+    [API: Foursquare, Weavr];
+    [query: {Pub, Location}];
+	}
+AirportVenue3: {
+    [API: Foursquare, Weavr];
+    [query: {Cafe, Location}];
+	}
+AirportArt: {
+	[API: Flickr];
+	[query: {'airport', 'art'}];
+	}
