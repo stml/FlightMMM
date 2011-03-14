@@ -43,6 +43,13 @@ GoAwaySite: {
 	"<a href='http://www.lastminute.com/'>lastminute.com</a>";
 	"<a href='http://www.kayak.com'>Kayak</a>";
 	}
+Airline: {
+	"British Airways";
+	"KLM";
+	"Lufthansa";
+	"Qantas";
+	"Emirates";
+	}
 Stage1SignOff: {
 	"Nothing like a snap decision.";
 	"This is going to be fun.";

@@ -1,0 +1,32 @@
+AtLast: {
+	"Finally";
+	"At last";
+	"At long last";
+	"After all that";
+	"In spite of all that";
+	"Yes";
+	"Phew";
+	"Here. Now";
+	}
+Superlative: {
+	"amazing";
+	"extraordinary";
+	"awesome";
+	"incredible";
+	"marvellous";
+	"stunning";
+	"unbelievable";
+	"wonderful";
+	"unique";
+	"beautiful";
+	"breathtaking";
+	"magnificent";
+	"overwhelming";
+	"great";
+	"brilliant";
+	}
+	
+AmazingPhoto {
+    [API: Flickt]
+    [query: {GoAwayPlace, MostInteresting}]
+	}

@@ -1,0 +1,8 @@
+PlaceThing: {
+    [API: Wikisplash]
+    [query: GoAwayPlace]
+	}
+PlaceVideo: {
+    [API: YouTube]
+    [query: {GoAwayPlace, PlaceThing}]
+	}

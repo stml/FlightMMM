@@ -1,0 +1,71 @@
+FlightTime: {
+	"halfway through";
+	"an hour into";
+	"a couple of hours into";	
+	}
+FlightEmotion1: {
+	"this view";
+	"this";
+	"the way this feels";
+	"the view from up here";
+	"the feeling of being up here";
+	"the sensation of flight";
+	"this feeling";
+	"the sun and the sky";
+	"this";
+	}
+FlightEmotion2: {
+	"The tininess of everything.";
+	"The way the clouds look.";
+	"The space up here.";
+	"The tiny roads and cars.";
+	"All the little people, so far away.";
+	"The way the sea looks from a plane.";
+	"The way everything looks from a plane.";
+	"The permanent sunshine above the clouds.";
+	}
+FlightPast: {	
+	"be scared of flying";
+	"be scared of planes";
+	"be afraid of flying";
+	"be afraid of planes";
+	"be terrified of flying";
+	"be terrified of planes";
+	"be aerophobic";
+	"be aviatophobic";
+	"be aviophobic";
+	"be pteromechanophobic;
+	"get agoraphobic up here";
+	"get so stressed about flying";
+	"get so stressed about planes";
+	"get so nervous about flying";
+	"get so nervous about flying";
+	}
+FlightFeeling: {
+	"weightless";
+	"free";
+	"light";
+	"buoyant";
+	"ethereal";
+	"effervescent";
+	"sprightly";
+	"floaty";
+	"joyful";
+	"joyous";
+	"unrestrained";
+	"unfettered";
+	"free-wheeling";
+	"free-spirited";
+	"forward";
+	"future-y";
+	"relaxed";
+	}
+
+FlightWeather: {
+    [API: Weavrs]
+    [query: {Weather, Location}]
+	}
+FlightPhoto: {
+    [API: Flickr]
+    [query: {'plane', 'wing', 'window'}]
+	}

@@ -1,0 +1,24 @@
+SecurityStuff: {
+	"toothpaste";
+	"deoderent";
+	"shampoo";
+	"conditioner";
+	"shaving cream";
+	"mouthwash";
+	}
+SecurityFood: {
+	"sandwich";
+	"juice";
+	"lunch";
+	"bottle of water";
+	"crisps";
+	"apple";
+	}
+SecurityWeapon: {
+	"bomb";
+	"knife";
+	"gun";
+	"weapon";
+	"blade";
+	"shiv";
+	}

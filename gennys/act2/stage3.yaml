@@ -1,0 +1,44 @@
+SecurityGuard: {
+	"dick";
+	"bastard";
+	"gimp";
+	"fucktard";
+	"fuckwit";
+	"officious bastard";
+	"creep";
+	"asshole";
+	"piece of scum";
+	}
+SecurityJoke: {
+	"said something";
+	"made a joke";
+	"cracked a joke";
+	"laughed at the whole thing";
+	"took a phone call";
+	"took a picture";
+	"took a photo";
+	}
+SecurityFreakOut: {
+	"freaked out";
+	"screamed";
+	"cried";
+	"wept";
+	}	
+SecurityLuck: {
+	"Luckily";
+	"Thank God";
+	"Thank goodness";
+	"Lucky for me";
+	"Somehow";
+	}
+SecurityMe: {
+	"a tourist";
+	"being an idiot";
+	"terminally unfunny";
+	"in the wrong place at the wrong time";
+	}
+	
+SecurityVideo: {
+    [API: YouTube]
+    [query: 'TSA']
+	}

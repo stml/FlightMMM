@@ -1,0 +1,21 @@
+BigNumber {
+	"100";
+	"200";
+	"500";
+	"a million";
+	"a thousand";
+	"assloads of";
+	}
+	
+FilmTitle: {
+    [API: IMDB, Weavrs]
+    [query: {Random, ThisYear}]
+	}
+FilmActor: {
+    [API: IMDB]
+    [query: {FilmTitle, Actor}]
+	}
+FilmTrailer: {
+    [API: YouTube]
+    [query: {FilmTitle, 'trailer'}]
+	}
